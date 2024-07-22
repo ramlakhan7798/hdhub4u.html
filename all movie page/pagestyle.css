@@ -1,0 +1,191 @@
+
+
+.video-container-full-screen{
+    width: 100vw;
+    justify-items: center;
+    justify-content: center;
+    justify-items: center;
+
+
+}
+.video-titel-vv{
+    color: #fff;
+    background-color: rgb(39, 39, 39);
+    height: auto;
+    width: 80%;
+    margin-left: 5%;
+    font-size: 2rem;
+    display: flex;
+    justify-items: center;
+
+}
+.ssssss{
+    color: #545454;
+    height: 2px;
+    width: 80%;
+    margin-left: 5%;
+    background-color:  #545454;
+    margin-top: 10px;
+    border: 0;
+}
+.video-titel-download{
+    text-align: center;
+    margin-top: 10px;
+    color: #747474;
+    height: auto;
+    width: 70%;
+    margin-left: 15%;
+    font-size: 1.5rem;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.title p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.titel-2 p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.titel-2 a{
+    text-decoration: none;
+    color: #0087fc;
+
+}
+
+
+.video-img-container{
+    width: 60%;
+    margin-left: 20%;
+    height: auto;
+}
+
+.video-main-img{
+    margin-top: 8px;
+    justify-items: right;
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+.download-icon-container{
+    width: 35%;
+    margin-left: 32.5%;
+    display: flex;
+    flex-direction: column;
+}
+.download-icon-container a {
+    text-align: center;
+    text-decoration: none;
+    color: hsl(208, 87%, 41%);
+    font-weight: bold ;
+    font-size: 1.5rem;
+    width: 90%;
+    margin-left: 0px;
+}
+.download-icon-container pre {
+    text-align: center;
+    text-decoration: none;
+    color: hsl(208, 87%, 41%);
+    font-weight: bold ;
+    font-size: 1.5rem;
+    margin-left: 0px;
+}
+.download-icon{
+    width: 3%;
+    margin-top: -40px;
+    position: absolute;
+    margin-left: 11%;
+    
+
+}
+.hrtagbold{
+    margin-top: 50px;
+    color: #545454;
+    height: 3px;
+    width: 80%;
+    margin-left: 5%;
+    background-color:  #545454;
+    margin-top: 10px;
+    border: 0;
+
+}
+.daitel-report{
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: red;
+
+}
+.daitel-report h3 {
+    font-size: 2rem;
+    color: #fff;
+}
+.detel-mavie{
+    margin-top: 50px;
+    color: #cccccc;
+    font-size: 16px;
+
+}
+.detel-mavie span {
+    color: #ff0000;
+
+}
+.detel-mavie .blud {
+    color: #0087fc;
+}
+.detel-mavie{
+    margin-top: 50px;
+
+}
+.screenshot-tag{
+    font-size: 1.7rem;
+    color: #ff0000;
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+}
+.screeshort{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    height: auto;
+    margin-left: 15%;
+    display: none;
+
+}
+.Screen-Shots-main{
+    width: 50%;
+
+}
+
+.download-and-watch-container{
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    color: #ffffff;
+
+}
+.download-and-watch-container h3 {
+    text-align: center;
+    color: #ff0000;
+    font-size: 2rem;
+}
+.download-and-watch-container h4 {
+    text-align: center;
+    color: #0087fc;
+    font-size: 1.5rem;
+}
+
+.movie-watch-trailor{
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    height: 1200px;
+}
+
